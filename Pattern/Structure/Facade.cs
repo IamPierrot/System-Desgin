@@ -1,0 +1,1 @@
+namespace Design.Pattern.Structure;
